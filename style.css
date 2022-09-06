@@ -1,0 +1,46 @@
+body {
+	background:#CCCCCC
+}
+
+#banner {
+	width: 100%;
+
+
+}
+
+.principal {
+	background:#CCCCCC
+}
+
+.itens {
+	font-style: italic;
+	font-size: 30px;
+}
+p {
+	font-size: 20px;
+	text-align: center;
+}
+
+em strong {
+	color: #F08080
+}
+
+#primaziaportuguesa {
+	color: #FA8072
+}
+
+#portugal {
+	background: #FFFFFF;
+}
+
+ul{  
+
+   display: inline-block;
+   width: 40%;
+
+}
+
+#mapa {
+    width: 50%;
+
+}
